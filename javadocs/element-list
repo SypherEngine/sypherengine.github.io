@@ -1,0 +1,17 @@
+module:SypherEngine
+dev.aurumbyte.sypherengine.components
+dev.aurumbyte.sypherengine.components.camera
+dev.aurumbyte.sypherengine.components.scene
+dev.aurumbyte.sypherengine.config
+dev.aurumbyte.sypherengine.core
+dev.aurumbyte.sypherengine.core.audio
+dev.aurumbyte.sypherengine.core.event
+dev.aurumbyte.sypherengine.core.graphics
+dev.aurumbyte.sypherengine.core.graphics.gradients
+dev.aurumbyte.sypherengine.core.graphics.tiles
+dev.aurumbyte.sypherengine.core.logic
+dev.aurumbyte.sypherengine.ecs
+dev.aurumbyte.sypherengine.logging
+dev.aurumbyte.sypherengine.logging.logUtils
+dev.aurumbyte.sypherengine.math
+dev.aurumbyte.sypherengine.ui
